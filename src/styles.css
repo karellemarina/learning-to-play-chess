@@ -134,6 +134,10 @@ header {
   grid-gap: 64px;
 }
 
+.video {
+  padding-top: 30px;
+}
+
 .grid-2-columns {
   grid-template-columns: 1fr 1fr;
 }
@@ -158,8 +162,12 @@ header {
 }
 
 .img-responsive {
-  max-width: 100%;
+  width: 100%;
   display: block;
+}
+
+.world {
+  width: 600px;
 }
 
 .btn {
@@ -234,6 +242,7 @@ main h3 {
   line-height: 1.5;
   color: #272044;
   margin: 0;
+  margin-bottom: 20px;
 }
 
 main p {
