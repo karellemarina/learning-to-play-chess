@@ -222,6 +222,14 @@ section.secondary {
   background-color: #272044;
 }
 
+section.secondary h2 {
+  color: white;
+}
+
+section.secondary h3 {
+  color: white;
+}
+
 main {
   background-color: white;
 }
@@ -362,6 +370,6 @@ footer h3 {
   }
 
   section {
-    padding: 10px 0;
+    padding: 30px 0;
   }
 }
